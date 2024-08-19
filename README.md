@@ -1,2 +1,2 @@
 # Go-projects
-Learning GoLang
+CRUD API in GoLang using dictionary data
